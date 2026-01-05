@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291840618036",
+    "project_id": "rs-gamebling",
+    "storage_bucket": "rs-gamebling.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291840618036:android:4effd4df9020b015bce461",
+        "android_client_info": {
+          "package_name": "com.example.medica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291840618036-d92kgo1h9rtglku5f6qosgkah94n761l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medica",
+            "certificate_hash": "f01583d0e133ebabef61887c29bb4407ad123f8a"
+          }
+        },
+        {
+          "client_id": "291840618036-0nsgpsitmujbpn2v1o4u3ots84ejn144.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvP8W5gwMuJrBvcWEqe9c5mLpAWY8QZf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291840618036-0nsgpsitmujbpn2v1o4u3ots84ejn144.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

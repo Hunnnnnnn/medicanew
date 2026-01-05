@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Medica</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_appointment">Appointment</string>
+    <string name="nav_articles">Articles</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Common -->
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="see_all">See All</string>
+    <string name="loading">Loading...</string>
+    
+    <!-- Home Screen -->
+    <string name="good_morning">Good Morning</string>
+    <string name="specialist">Specialist</string>
+    <string name="top_doctor">Top Doctor</string>
+    <string name="popular_services">Popular Services</string>
+    
+    <!-- Profile Screen -->
+    <string name="profile_title">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="notification">Notification</string>
+    <string name="security">Security</string>
+    <string name="language">Language</string>
+    <string name="logout">Logout</string>
+    
+    <!-- Edit Profile -->
+    <string name="edit_profile_title">Edit Profile</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save_changes">Save Changes</string>
+    
+    <!-- Language Screen -->
+    <string name="language_title">Language</string>
+    <string name="suggested">Suggested</string>
+    <string name="english">English(UK)</string>
+    <string name="indonesia">Indonesia</string>
+    
+    <!-- Articles Screen -->
+    <string name="articles_title">Articles</string>
+    <string name="trending">Trending</string>
+    <string name="newest">Newest</string>
+    <string name="health">Health</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="cancer">Cancer</string>
+    <string name="read_time">min read</string>
+    
+    <!-- Appointment Screen -->
+    <string name="appointment_title">Appointment</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="confirm">Confirm</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="completed">Completed</string>
+    <string name="cancelled">Cancelled</string>
+    
+    <!-- Messages -->
+    <string name="restart_required">Please restart the app to apply language changes</string>
+    <string name="language_changed">Language changed successfully</string>
+</resources>

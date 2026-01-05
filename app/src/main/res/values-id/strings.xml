@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Medica</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_appointment">Janji Temu</string>
+    <string name="nav_articles">Artikel</string>
+    <string name="nav_profile">Profil</string>
+    
+    <!-- Common -->
+    <string name="search">Cari</string>
+    <string name="filter">Filter</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="back">Kembali</string>
+    <string name="next">Selanjutnya</string>
+    <string name="see_all">Lihat Semua</string>
+    <string name="loading">Memuat...</string>
+    
+    <!-- Home Screen -->
+    <string name="good_morning">Selamat Pagi</string>
+    <string name="specialist">Spesialis</string>
+    <string name="top_doctor">Dokter Teratas</string>
+    <string name="popular_services">Layanan Populer</string>
+    
+    <!-- Profile Screen -->
+    <string name="profile_title">Profil</string>
+    <string name="edit_profile">Ubah Profil</string>
+    <string name="notification">Notifikasi</string>
+    <string name="security">Keamanan</string>
+    <string name="language">Bahasa</string>
+    <string name="logout">Keluar</string>
+    
+    <!-- Edit Profile -->
+    <string name="edit_profile_title">Ubah Profil</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="phone_number">Nomor Telepon</string>
+    <string name="save_changes">Simpan Perubahan</string>
+    
+    <!-- Language Screen -->
+    <string name="language_title">Bahasa</string>
+    <string name="suggested">Disarankan</string>
+    <string name="english">English(UK)</string>
+    <string name="indonesia">Indonesia</string>
+    
+    <!-- Articles Screen -->
+    <string name="articles_title">Artikel</string>
+    <string name="trending">Trending</string>
+    <string name="newest">Terbaru</string>
+    <string name="health">Kesehatan</string>
+    <string name="lifestyle">Gaya Hidup</string>
+    <string name="cancer">Kanker</string>
+    <string name="read_time">menit baca</string>
+    
+    <!-- Appointment Screen -->
+    <string name="appointment_title">Janji Temu</string>
+    <string name="book_appointment">Buat Janji</string>
+    <string name="select_date">Pilih Tanggal</string>
+    <string name="select_time">Pilih Waktu</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="upcoming">Mendatang</string>
+    <string name="completed">Selesai</string>
+    <string name="cancelled">Dibatalkan</string>
+    
+    <!-- Messages -->
+    <string name="restart_required">Silakan restart aplikasi untuk menerapkan perubahan bahasa</string>
+    <string name="language_changed">Bahasa berhasil diubah</string>
+</resources>
