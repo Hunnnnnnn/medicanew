@@ -34,3 +34,9 @@ class MainActivity : ComponentActivity() {
 // pw : Gamebling123
 // email : medica@gmail.com
 // pw : Medica123
+/* GAMEBLING -Medica
+1. Raihan Arhab Kamil Wijanarko (23523004)
+2. Muhammad waskito kuncoro putro (23523088)
+3. Andini Putri Ramadhani (23523137)
+4. Bernard Saif Nazhif Hidayat (23523180)
+* */
