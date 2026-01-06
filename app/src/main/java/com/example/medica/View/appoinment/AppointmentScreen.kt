@@ -35,6 +35,7 @@ import kotlinx.coroutines.delay
 fun AppointmentScreen(
     onNavigateToHome: () -> Unit,
     onNavigateToProfile: () -> Unit,
+    onNavigateToArticles: () -> Unit, // NEW: Add Articles navigation
     onNavigateToReschedule: (String) -> Unit,  // Changed to accept appointmentId
     viewModel: AppointmentViewModel = viewModel()
 ) {
@@ -85,6 +86,7 @@ fun AppointmentScreen(
             BottomNavigationBar(
                 currentTab = "Appointment",
                 onHomeClick = onNavigateToHome,
+                onArticlesClick = onNavigateToArticles, // Connect Articles navigation
                 onProfileClick = onNavigateToProfile,
                 onAppointmentClick = {}
             )

@@ -218,6 +218,9 @@ fun AppNavigation() {
                 onNavigateToProfile = {
                     navController.navigate("profile")
                 },
+                onNavigateToArticles = {
+                    navController.navigate("articles")
+                },
                 onNavigateToReschedule = { appointmentId ->
                     navController.navigate("reschedule_appointment/$appointmentId")
                 },
