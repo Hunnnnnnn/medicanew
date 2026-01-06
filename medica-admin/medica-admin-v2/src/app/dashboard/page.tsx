@@ -282,12 +282,11 @@ export default function DashboardPage() {
             </div>
 
             {/* VISIBLE DEBUG PANEL - TEMPORARY FOR TROUBLESHOOTING */}
-            <div className="mt-8 p-4 bg-gray-800 text-green-400 rounded-lg font-mono text-xs overflow-x-auto">
+            {/* <div className="mt-8 p-4 bg-gray-800 text-green-400 rounded-lg font-mono text-xs overflow-x-auto">
                 <h3 className="text-white font-bold mb-2 text-sm uppercase border-b border-gray-600 pb-1">🔧 Dashboard Diagnostic Panel</h3>
                 <div className="grid grid-cols-2 gap-4">
                     <div>
                         <p className="text-yellow-400">System Time:</p>
-                        {/* Hydration fix: Only render dynamic time on client */}
                         <p suppressHydrationWarning>{typeof window !== 'undefined' ? new Date().toString() : 'Loading...'}</p>
 
                         <p className="text-yellow-400 mt-2">Target Query Date:</p>
@@ -310,7 +309,7 @@ export default function DashboardPage() {
                         <p className="text-red-400">No data found in 'recentAppointments' state.</p>
                     )}
                 </div>
-            </div>
+            </div> */}
         </div>
     );
 }
