@@ -268,7 +268,7 @@ export default function DashboardPage() {
                                 {recentAppointments.map((apt, i) => (
                                     <tr key={i} className="border-b hover:bg-gray-50">
                                         <td className="px-4 py-3 text-gray-900">{apt.no || (198 + i)}</td>
-                                        <td className="px-4 py-3 text-gray-900">{apt.nama || apt.pasienName}</td>
+                                        <td className="px-4 py-3 text-gray-900">{apt.nama || apt.patientName}</td>
                                         <td className="px-4 py-3 text-gray-900">{apt.poli || apt.specialty}</td>
                                         <td className="px-4 py-3 text-gray-900">{apt.dokter || apt.doctorName}</td>
                                         <td className="px-4 py-3 text-gray-900">{apt.status || 'Sedang Dilayani'}</td>
